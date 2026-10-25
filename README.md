@@ -1,0 +1,1 @@
+# Ai-Based-Multi-Natural-Disaster-Prediction-And-Detection-Using-Machine-Learning
